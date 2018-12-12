@@ -6,7 +6,7 @@
 
 ### Want to test it?
 
-You can use this **[INTERFACE MADE WITH REACT/REDUX](https://bigbigdoudou.github.io/pathfinder_front/)**.
+You can use this **[INTERFACE MADE WITH REACT/REDUX](https://bigbigdoudou.github.io/maze_solver_front/)**.
 
 ---
 
