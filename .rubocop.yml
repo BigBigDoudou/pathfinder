@@ -1,0 +1,21 @@
+LineLength:
+  Max: 80
+MethodLength:
+  Max: 10
+ClassLength:
+  Max: 120
+FrozenStringLiteralComment:
+  Enabled: false
+Documentation:
+  Enabled: false
+ClassAndModuleChildren:
+  Enabled: false
+
+AllCops:
+  TargetRubyVersion: 2.4
+  Exclude:
+    - '**/config/**/*'
+    - '**/bin/**/*'
+    - '**/Rakefile'
+    - '**/spec/**/*'
+    - '**/db//**/*'
