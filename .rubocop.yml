@@ -1,9 +1,9 @@
 LineLength:
   Max: 80
 MethodLength:
-  Max: 10
+  Max: 7
 ClassLength:
-  Max: 120
+  Max: 100
 FrozenStringLiteralComment:
   Enabled: false
 Documentation:

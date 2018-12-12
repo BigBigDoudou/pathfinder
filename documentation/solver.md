@@ -1,3 +1,4 @@
+```ruby
 class Solver
   def initialize(params)
     @serial = params[:serial].to_s
@@ -143,3 +144,4 @@ class Solver
     @closed_list << @node = @open_list.shift
   end
 end
+```
