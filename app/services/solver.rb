@@ -57,8 +57,7 @@ class Solver
 
   # MESURE SHORTEST DISTANCE FROM START TO EACH NODE
   def measure_distances
-    positions = reachable_positions
-    positions.each do |position|
+    reachable_positions.each do |position|
       # skip if position is in closed list
       next if @closed_list.map { |node| node[:position] }.include? position
 
