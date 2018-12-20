@@ -1,8 +1,10 @@
-> December 2018
-
 # TINY PATHFINDER
 
-*A tiny algorithm to find the shortest path in a maze*
+> Pathfinding prototype made with Ruby (back) and React/Redux (front)
+
+> December 2018
+
+A tiny algorithm to find the shortest path in a maze
 
 ![screenshot_1](https://raw.githubusercontent.com/bigbigdoudou/pathfinder/master/pathfinder.png)
 
